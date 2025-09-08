@@ -38,6 +38,6 @@ This dashboard provides pharma companies with a **clear view of sales performanc
 ---
 
 ## 📸 Dashboard Preview  
-![Pharma Dashboard Screenshot](./Users/daka/Desktop/Dashboard_Screenshot.png)  
+![Pharma Dashboard Screenshot](./Dashboard_Screenshot.png)  
 
 
